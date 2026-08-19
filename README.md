@@ -16,3 +16,7 @@
 
 ## Fotos
 Tre København-fotos indlæses direkte fra Wikimedia Commons. Der kræves derfor internetforbindelse for at se dem. Kreditering og licenser står nederst på websiden.
+
+
+## Automatisk gemning
+Når du markerer eller fjerner en weekend, opdateres URL'en automatisk. På GitHub Pages kan du derfor blot kopiere adressen i browseren efter dine ændringer; dine valgte weekender ligger i delen efter `#`.
